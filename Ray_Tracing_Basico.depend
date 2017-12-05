@@ -1,0 +1,239 @@
+# depslib dependency file v1.0
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\algebra.cpp
+	<cmath>
+	<complex>
+	<iostream>
+	"algebra.h"
+
+1359904866 c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\algebra.h
+	<complex>
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\binary.cpp
+	"imager.h"
+
+1359904866 c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\imager.h
+	<vector>
+	<cmath>
+	"algebra.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\chessboard.cpp
+	<cmath>
+	"chessboard.h"
+
+1359904866 c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\chessboard.h
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\cuboid.cpp
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\cylinder.cpp
+	"algebra.h"
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\debug.cpp
+	<cmath>
+	<fstream>
+	<iostream>
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\dodecahedron.cpp
+	"polyhedra.h"
+
+1359904866 c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\polyhedra.h
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\icosahedron.cpp
+	"polyhedra.h"
+
+1509748467 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\lodepng.cpp
+	"lodepng/lodepng.h"
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1351537160 c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\lodepng\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\optics.cpp
+	<cmath>
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\planet.cpp
+	"planet.h"
+
+1359904866 c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\planet.h
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\reorient.cpp
+	<cmath>
+	"imager.h"
+
+1509759128 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\scene.cpp
+	<cmath>
+	<fstream>
+	<iostream>
+	"imager.h"
+	"lodepng/lodepng.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\setcompl.cpp
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\setisect.cpp
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\setunion.cpp
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\solid.cpp
+	"imager.h"
+
+1359904866 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\sphere.cpp
+	"imager.h"
+
+1359904864 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\spheroid.cpp
+	"algebra.h"
+	"imager.h"
+
+1359904864 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\thinring.cpp
+	"planet.h"
+
+1359904864 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\torus.cpp
+	"algebra.h"
+	"imager.h"
+
+1359904944 source:c:\users\dell\documents\documentos de la u\sexto semestre\graficos por computadoras\ray tracing basico\ray_tracing_basico\triangle.cpp
+	<cmath>
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\algebra.cpp
+	<cmath>
+	<complex>
+	<iostream>
+	"algebra.h"
+
+1359904866 c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\algebra.h
+	<complex>
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\binary.cpp
+	"imager.h"
+
+1511478183 c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\imager.h
+	<vector>
+	<cmath>
+	"algebra.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\chessboard.cpp
+	<cmath>
+	"chessboard.h"
+
+1359904866 c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\chessboard.h
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\cuboid.cpp
+	"imager.h"
+
+1511318135 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\cylinder.cpp
+	"algebra.h"
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\debug.cpp
+	<cmath>
+	<fstream>
+	<iostream>
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\dodecahedron.cpp
+	"polyhedra.h"
+
+1359904866 c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\polyhedra.h
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\icosahedron.cpp
+	"polyhedra.h"
+
+1509748467 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\lodepng.cpp
+	"lodepng/lodepng.h"
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1351537160 c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\lodepng\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1512459456 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\main.cpp
+	<windows.h>
+	<iostream>
+	"algebra.h"
+	"block.h"
+	"chessboard.h"
+	"planet.h"
+	"polyhedra.h"
+
+1359904866 c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\block.h
+	"imager.h"
+
+1359904866 c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\planet.h
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\optics.cpp
+	<cmath>
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\planet.cpp
+	"planet.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\reorient.cpp
+	<cmath>
+	"imager.h"
+
+1509759128 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\scene.cpp
+	<cmath>
+	<fstream>
+	<iostream>
+	"imager.h"
+	"lodepng/lodepng.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\setcompl.cpp
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\setisect.cpp
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\setunion.cpp
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\solid.cpp
+	"imager.h"
+
+1359904866 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\sphere.cpp
+	"imager.h"
+
+1359904864 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\spheroid.cpp
+	"algebra.h"
+	"imager.h"
+
+1359904864 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\thinring.cpp
+	"planet.h"
+
+1359904864 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\torus.cpp
+	"algebra.h"
+	"imager.h"
+
+1359904944 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\triangle.cpp
+	<cmath>
+	"imager.h"
+
+1511466831 source:c:\users\esteban blanco\documents\tec\vi semestre\introduccion a los graficos por computadora\proyecto ii\ray_tracing_basico\cone.cpp
+	"algebra.h"
+	"imager.h"
+
